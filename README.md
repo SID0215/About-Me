@@ -2,7 +2,6 @@
 # Hi, I'm Siddartha Thupakula <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="waving hand"/>
 🎓 MS in Business Analytics & Project Management | UConn (May 2026)  <br>📊 Data | Business | Intelligence | Strategy  <br><br>I’m an Analyst with a strong foundation in **Data Analytics, Business Intelligence, and Process Improvement**.<br><br>Through my internships at **EDEN (Non-Profit Organization)** and **UConn Health**, I applied data-driven problem solving to support operational reporting, performance analysis, and strategic decision-making.<br><br>I specialize in transforming raw data into actionable insights that improve efficiency, performance, and clarity. <br><br>💼 What I Bring<br><br> 📊 Strong analytical thinking with hands-on experience in data cleaning, EDA, and reporting  <br> 📈 Dashboard development using Power BI & Tableau for stakeholder decision support  <br> 🛢️ SQL-based data querying and structured data transformation  <br> 📑 Clear documentation and business requirement translation  <br> 🤝 Cross-functional collaboration with non-technical stakeholders  <br> 📉 KPI tracking and performance analysis <br><br>🛠️ Technical Toolkit<br><br>**Languages:**  <br>Python | SQL  <br><br>**Analytics & BI:**  <br>Power BI | Tableau | Excel  <br><br>**Data Handling:**  <br>Pandas | NumPy | Data Cleaning | EDA  <br><br>**Tools:**  <br>Git | Jupyter | VS Code<br><br>🎯 Career Objective<br><br>Actively seeking opportunities in:<br><br> Data Analyst  <br> Business Analyst  <br> Business Intelligence Analyst  <br> Operations / Strategy Analyst  <br><br>I’m passionate about using data not just to report numbers but to tell meaningful stories that support smarter business decisions.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddartha.15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddartha-thupakula-023194208) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zidzeekers799) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddarthathupakula@gmail.com) 
 
@@ -14,8 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SID0215&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SID0215&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SID0215&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SID0215&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
